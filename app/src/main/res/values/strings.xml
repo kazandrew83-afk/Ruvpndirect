@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RuDirect</string>
+    <string name="vpn_service_label">RuDirect Split-Tunnel Service</string>
+    <string name="notification_channel_name">Служба обхода VPN</string>
+    <string name="notification_channel_desc">Показывает статус прямого подключения для приложений РФ</string>
+    <string name="vpn_active_title">RuDirect активен: обход включён</string>
+    <string name="vpn_active_content">Трафик выбранных приложений направляется напрямую через мобильный интернет</string>
+</resources>
